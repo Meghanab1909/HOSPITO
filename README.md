@@ -9,5 +9,3 @@
 **hospito main - formatting.py** - This page is responsible for the hospital management system. The features are Add Patient, Condition Stable, Waiting Time, Search Data, Remove Record, Patients left to Operate.
 
 **exit.py** - This is the exit page of the project. 
-
-**VIDEO-2022-12-31-20-51-26.mp4** - This is the screen recording of the project. If the video does not load, please download it. Screen recording helps get a better idea of the project. 
