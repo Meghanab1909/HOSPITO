@@ -1,4 +1,4 @@
-#Files of this Repository
+# Files of this Repository
 
 **loginregisterguestEDITED - mysqlconnect.py** - This is the login-register page. The user can register, login or check in as guest.
 
