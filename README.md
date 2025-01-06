@@ -1,3 +1,5 @@
+#Files of this Repository
+
 **loginregisterguestEDITED - mysqlconnect.py** - This is the login-register page. The user can register, login or check in as guest.
 
 **amb1 - mysqlconnect.py** - This is the ambulance booking page. There are 2 options offered - Book for Myself and Book for Someone else.
@@ -8,4 +10,4 @@
 
 **exit.py** - This is the exit page of the project. 
 
-**VIDEO-2022-12-31-20-51-26.mp4** - This is the screen recording of the project 
+**VIDEO-2022-12-31-20-51-26.mp4** - This is the screen recording of the project. If the video does not load, please download it. Screen recording helps get a better idea of the project. 
