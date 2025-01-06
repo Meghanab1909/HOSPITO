@@ -9,3 +9,5 @@
 **hospito main - formatting.py** - This page is responsible for the hospital management system. The features are Add Patient, Condition Stable, Waiting Time, Search Data, Remove Record, Patients left to Operate.
 
 **exit.py** - This is the exit page of the project. 
+
+**Project Output Folder** - This folder comprises of the project output i.e., screen shots of each page.
